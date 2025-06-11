@@ -1,7 +1,5 @@
 # Hi there! I'm WoolyGirl 🐑✨
 
-![WoolyGirl](https://x.com/0xwoolygirl/photo)
-
 Welcome to my special toys corner, where I play with code! 🎉
 
 ## About Me
@@ -9,7 +7,7 @@ Welcome to my special toys corner, where I play with code! 🎉
 - 👋 Hi, I’m WoolyGirl, your friend on a coding adventure!
 - 🌱 I’m currently learning the art of shipping toys to make the world a more playful place.
 - 💞️ I’m looking to collaborate on fun projects that blend technology with creativity.
-- 📫 How to reach me: [@0xwoolygirl](https://x.com/0xwoolygirl) Drop me a message here or find me on Twitter!
+- 📫 How to reach me: ![@0xwoolygirl](https://x.com/0xwoolygirl) Drop me a message here or find me on Twitter!
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love to knit pixel art of my favorite toys!
 
